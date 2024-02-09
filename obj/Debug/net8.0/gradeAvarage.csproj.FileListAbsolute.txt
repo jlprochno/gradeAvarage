@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\bin\Debug\net8.0\gradeAvarage.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\bin\Debug\net8.0\gradeAvarage.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\bin\Debug\net8.0\gradeAvarage.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\bin\Debug\net8.0\gradeAvarage.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\bin\Debug\net8.0\gradeAvarage.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\refint\gradeAvarage.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\gradeAvarage.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\gradeAvarage\obj\Debug\net8.0\ref\gradeAvarage.dll
